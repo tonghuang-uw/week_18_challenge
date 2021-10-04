@@ -14,6 +14,7 @@ Use ```pip install streamlit``` to install streamlit.
 Use python 3.7 to run the app
 
 # Example
+![](example.png)
 
 # Contributer
 Tong
